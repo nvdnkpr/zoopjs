@@ -21,6 +21,9 @@
     }
   ],
   "main": "lib/zoop",
+  "bin": {
+  	"zoop": "bin/zoop.js"
+  },
   "engines": {
     "node": ">= 0.8.0"
   },
